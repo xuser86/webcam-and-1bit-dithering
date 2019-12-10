@@ -1,0 +1,8 @@
+{
+  "name": "camera-1-bit-color-dithering",
+  "version": "1.0.0",
+  "description": "Camera capture with b/w dithering",
+  "main": "index.html",
+  "author": "Rafał Jeżewski",
+  "license": "MIT",
+}
